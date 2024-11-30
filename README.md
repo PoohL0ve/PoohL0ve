@@ -6,8 +6,17 @@ Currently, I am pursuing an undergraduate degree in Information Technology to so
 Feel free to explore my projects and learning journey. Don't forget to provide any feedback you have 😊.
 
 ## 📖 About me
+- 🔎🧹 Data Cleaning Enthusiast: I enjoy the process of cleaning data, ensuring it's ready for analysis or use in machine learning models.
+- 💻🌐 Programming Languages: Profiecient in Java and Python with a keen interest in learning other languages.
+- 🚀📈 Continuous Learner: I embrace to concept of having a growth mindset and I'm always open to learn new skills and tackle challenges.
 
-## 
+## 👩🏾‍💻 A Few Projects
+- Bike Share: Utilised RMarkdown on Kaggle to perform statistical analysis and provide insights for a company to increase their annual memberships. View [Project](https://www.kaggle.com/code/rissiepooh/bike-share-r)
+- Lotto Plus Generator: Developed an app in Java using the Swing library to generate random numbers, helping users in selecting lotto numbers. This is the [code](https://github.com/PoohL0ve/simple_lottoplus_app-Java/tree/main/LottoPlus/src) for the project.
+- Data Analysis For Hospitals: Perfomed data cleaning, manipulation, and statistics to help a hospital understand their patients. Explore the final [project](https://github.com/PoohL0ve/data_analytics/blob/main/Data%20Analysis%20for%20Hospitals/Data%20Analysis%20for%20Hospitals/task/analysis.py)
+
+## 🧰 Skills and Tools
+
 
 <!--
 **PoohL0ve/PoohL0ve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
