@@ -1,4 +1,13 @@
-## Hi there 👋
+# Cheers 👋🏾 to a Warm Welcome to My Page 😊
+Hey there! I go by the name Ris, a dedicated and passionate data analyst and programmer. I have a burning 🔥 fascination with data and a deep curiosity about how things work, which fuels ⛽️ my continuos learning journey. 
+
+Currently, I am pursuing an undergraduate degree in Information Technology to solidify my commitment to learning and growing in the tech field. My aim is to utilize my skills in data analysis and programming to uncover interesting insights and play a crucial role in driving innovation.
+
+Feel free to explore my projects and learning journey. Don't forget to provide any feedback you have 😊.
+
+## 📖 About me
+
+## 
 
 <!--
 **PoohL0ve/PoohL0ve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
