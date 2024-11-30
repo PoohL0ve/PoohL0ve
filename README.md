@@ -16,6 +16,12 @@ Feel free to explore my projects and learning journey. Don't forget to provide a
 - Data Analysis For Hospitals: Perfomed data cleaning, manipulation, and statistics to help a hospital understand their patients. Explore the final [project](https://github.com/PoohL0ve/data_analytics/blob/main/Data%20Analysis%20for%20Hospitals/Data%20Analysis%20for%20Hospitals/task/analysis.py)
 
 ## 🧰 Skills and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,r,js,html,sql,ruby" />
+    <img src="https://skillicons.dev/icons?i=css,git,github,idea,vscode,react,sqlite" />
+  </a>
+</p>
 
 
 <!--
