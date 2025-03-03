@@ -1,7 +1,7 @@
 # Cheers 👋🏾 to a Warm Welcome to My Page 😊
-Hey there! I go by the name Ris, a dedicated and passionate data analyst and programmer. I have a burning 🔥 fascination with data and a deep curiosity about how things work, which fuels ⛽️ my continuos learning journey. 
+Hey there! I go by the name Ris, a dedicated and passionate data enthusiast and programmer. I have a burning 🔥 fascination with data and a deep curiosity about how things work, which fuels ⛽️ my continuos learning journey. 
 
-Currently, I am pursuing an undergraduate degree in Information Technology to solidify my commitment to learning and growing in the tech field. My aim is to utilize my skills in data analysis and programming to uncover interesting insights and play a crucial role in driving innovation.
+Currently, I am pursuing an undergraduate degree in Analytics to solidify my commitment to learning and growing in the tech field. My aim is to utilize my skills in data analysis and programming to uncover interesting insights and play a crucial role in driving innovation.
 
 Feel free to explore my projects and learning journey. Don't forget to provide any feedback you have 😊.
 
@@ -11,8 +11,8 @@ Feel free to explore my projects and learning journey. Don't forget to provide a
 - 🚀📈 Continuous Learner: I embrace to concept of having a growth mindset and I'm always open to learn new skills and tackle challenges.
 
 ## 👩🏾‍💻 A Few Projects
-- Bike Share: Utilised RMarkdown on Kaggle to perform statistical analysis and provide insights for a company to increase their annual memberships. View [Project](https://www.kaggle.com/code/rissiepooh/bike-share-r)
-- Lotto Plus Generator: Developed an app in Java using the Swing library to generate random numbers, helping users in selecting lotto numbers. This is the [code](https://github.com/PoohL0ve/simple_lottoplus_app-Java/tree/main/LottoPlus/src) for the project.
+- Top 10 Banks: Developed an ETL process using Python to locate and load the top 10 banks in a database and csv file. For more details click [here](https://github.com/PoohL0ve/etl_top_banks_25-01)
+- Cyclistic Bike Share: A Business Inteligence project that utilised tools like Tableau and Big Query to compare the needs of different bike users. For project info, [follow](https://github.com/PoohL0ve/cyclistic_bike_share).
 - Data Analysis For Hospitals: Perfomed data cleaning, manipulation, and statistics to help a hospital understand their patients. Explore the final [project](https://github.com/PoohL0ve/data_analytics/blob/main/Data%20Analysis%20for%20Hospitals/Data%20Analysis%20for%20Hospitals/task/analysis.py)
 
 ## 🧰 Skills and Tools
